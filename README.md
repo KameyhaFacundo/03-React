@@ -1,4 +1,4 @@
-# Ejercicio 2 de React : Modificar el programa anterior agregando al componente un state con la clave msj: “(from changed state)”, además agregar un botón al presionar este botón (onClick), el state de la clave msj se debe mostrar por pantalla de la siguiente manera:
+# Ejercicio 3 de React : Modificar el programa anterior agregando al componente un state con la clave msj: “(from changed state)”, además agregar un botón al presionar este botón (onClick), el state de la clave msj se debe mostrar por pantalla de la siguiente manera:
 
 # Hello my fiend (from changed state)!
 
@@ -13,7 +13,7 @@
 ## Repositorio💻
 
 ```bash
-https://github.com/KameyhaFacundo/01-React
+https://github.com/KameyhaFacundo/03-React
 ```
 
 ## Autor 👨‍💻👩‍💻
