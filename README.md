@@ -1,6 +1,10 @@
-# Ejercicio 3 de React : Modificar el programa anterior agregando al componente un state con la clave msj: “(from changed state)”, además agregar un botón al presionar este botón (onClick), el state de la clave msj se debe mostrar por pantalla de la siguiente manera:
+# Practica de React - “Hello my friend (from changed state)!
 
-# Hello my fiend (from changed state)!
+_componente un state con la clave msj: “(from changed state)”_
+
+### Demo ⭐
+
+[Ver demo ](https://03react.netlify.app)
 
 # Tecnologias ⚒️
 
@@ -10,11 +14,7 @@
 - JavaScript / React
 - [React-Bootstrap](https://react-bootstrap.github.io/)
 
-## Repositorio💻
-
-```bash
-https://github.com/KameyhaFacundo/03-React
-```
+---
 
 ## Autor 👨‍💻👩‍💻
 
@@ -25,6 +25,6 @@ https://github.com/KameyhaFacundo/03-React
 1. Emilse Arias
 2. Jonathan Plodzien
 
-## Licencia 📄
+---
 
-Copyright (c) 2020 -2023
+Copyright (c) - 2023
