@@ -4,7 +4,7 @@ _componente un state con la clave msj: “(from changed state)”_
 
 ### Demo ⭐
 
-[Ver demo ](https://03react.netlify.app)
+[Ver demo ](https://03react.netlify.app/)
 
 # Tecnologias ⚒️
 
